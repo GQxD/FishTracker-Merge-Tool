@@ -22,7 +22,7 @@ This Python script processes multiple text files from a specified folder, extrac
 2. Update the `source_folder` variable in the script with the path to your folder.
 3. Run the script:
    ```bash
-   python script_name.py
+   python FishTracker-Merge-Tool.py
    ```
 4. The combined output file will be saved in the same folder.
 
