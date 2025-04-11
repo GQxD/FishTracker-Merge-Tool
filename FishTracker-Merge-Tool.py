@@ -2,7 +2,7 @@ import os
 import pandas as pd
 
 # 1. Define the folder containing the text files
-source_folder = rr"/path/to/your/folder"
+source_folder = r"/path/to/your/folder"
 output_file = os.path.join(source_folder, "CSOT_merged.txt")  
 
 # 2. Initialize a list to store the DataFrames
